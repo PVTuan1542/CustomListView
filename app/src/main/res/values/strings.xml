@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string name="maintitle">Main title</string>
+    <string name="mainsub">Main sub</string>
+    <string name="todo">TODO</string>
+    <string name="td">TODO</string>
+</resources>
